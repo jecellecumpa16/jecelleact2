@@ -1,0 +1,7 @@
+{
+  "name": "jel_act2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
